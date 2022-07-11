@@ -9,7 +9,7 @@ permalink: /
 
 Welcome to the Python 101. 
 
-The syllabus is available [here](https://devops-education.gitlab.io/workshops/examples/metzin-around-university-frontend-style/syllabus). 
+The syllabus is available [here](https://devops-education.gitlab.io//workshops/examples/metzin-around-university-frontend-style/course/syllabus/). 
 
-The issues for homework are listed [here](https://devops-education.gitlab.io/workshops/examples/metzin-around-university-frontend-style/issues)
+The issues for homework are listed [here](https://devops-education.gitlab.io//workshops/examples/metzin-around-university-frontend-style/course/issues/)
 
