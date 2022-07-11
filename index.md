@@ -1,15 +1,15 @@
 ---
 title: Home
 nav_order: 1
-description: "Courseware as Code is an easy to use website template for education for all skill levels."
+description: "Python 101"
 permalink: /
 ---
 
-# Courseware as Code
+# Python 101 with Professor Metz
 
 Welcome to the Python 101. 
 
-The syllabus is available [here](https://devops-education.gitlab.io/workshops/metzin-around-university-frontend-style/syllabus). 
+The syllabus is available [here](https://devops-education.gitlab.io/workshops/examples/metzin-around-university-frontend-style/syllabus). 
 
-The issues for homework are listed [here](https://devops-education.gitlab.io/workshops/metzin-around-university-frontend-style/issues)
+The issues for homework are listed [here](https://devops-education.gitlab.io/workshops/examples/metzin-around-university-frontend-style/issues)
 

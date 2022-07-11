@@ -5,7 +5,7 @@ description: a demo # A short description of your course
 # Deployment and template variables below
 # No need to modify them in most cases
 ###
-baseurl: "workshops/metzin-around-university-frontend-style"
+baseurl: "workshops/examples/metzin-around-university-frontend-style"
 url: "https://devops-education.gitlab.io/"
 
 # Footer "Edit this page on Gitlab" link text
