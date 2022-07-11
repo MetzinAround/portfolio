@@ -7,7 +7,9 @@ permalink: /
 
 # Courseware as Code
 
-Welcome to the Courseware as Code template!
-This is a template for easily building static websites in Gitlab with big a focus on ease of use for educators, no matter their technical knowledge.
+Welcome to the Python 101. 
 
-This template started out as a fork of [just-the-docs](https://pmarsceill.github.io/just-the-docs/) and supports the same features.
+The syllabus is available [here](https://devops-education.gitlab.io/workshops/metzin-around-university-frontend-style/syllabus). 
+
+The issues for homework are listed [here](https://devops-education.gitlab.io/workshops/metzin-around-university-frontend-style/issues)
+
