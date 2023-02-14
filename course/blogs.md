@@ -7,4 +7,4 @@ nav_order: 3
 
 Here you'll find all the blogs I wrote while working at GitLab. They were edited by the blog team, but I was mostly responsible for the concepts and content. 
 
-![image](/assets/images/Pj_Python)
+![image](/assets/images/Pj_Python.png)
