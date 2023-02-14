@@ -13,5 +13,5 @@ I spent 11 years as an educator working mostly in high school literature courses
 
 It's important to understand developers in order to work with them; they need someone who can empathize and understand what they are working towards. With that in mind, I make sure first to understand the product I'm working with and then to understand the developers who use the product. In that way, I can work with the developers to find a solution, rather than pushing a solution that doesn't matter to them. d
 
-I am energetic, passionate, and a team player. I take on work that propels the team forward and work to create an environment of trust and authenticity with my team and outside stakeholders. I'm excited you've come to my portfolio. Here you'll find [blogs](), [videos](), [live streams](), and [content]() I made in the past 1.5 years as an Education Evangelist at GitLab. 
+I am energetic, passionate, and a team player. I take on work that propels the team forward and work to create an environment of trust and authenticity with my team and outside stakeholders. I'm excited you've come to my portfolio. Here you'll find [blogs](https://metzinaround.gitlab.io/portfolio/course/blogs/), [videos](https://metzinaround.gitlab.io/portfolio/course/talks/), [live streams](), and [content]() I made in the past 1.5 years as an Education Evangelist at GitLab. 
 
