@@ -5,7 +5,7 @@ description: The content Pj created for GitLab all in one place
 # Deployment and template variables below
 # No need to modify them in most cases
 ###
-baseurl: "metzinaround/portfolio"
+baseurl: "portfolio/"
 url: "https://metzinaround.gitlab.io/"
 
 permalink: pretty
