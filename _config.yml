@@ -9,7 +9,10 @@ baseurl: "portfolio/"
 url: "https://metzinaround.gitlab.io"
 
 permalink: pretty
-exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile", "docs/tests/", "attached_files/slides_markdown", "vendor"]
+exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile", "docs/tests/", "vendor"]
+
+include:
+  - assets
 
 markdown: kramdown
 kramdown:
