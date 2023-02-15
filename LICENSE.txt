@@ -1,4 +1,4 @@
-Copyright for portions of the code used in this project (Courseware as Code) are held by [Patric Marsceill, 2016] as part of project "just-the-docs". The rest has been developed by Gitlab as part of the Google Summer of Code 2021 program.
+Portions of the code were created by Alejandro Rusi during his GSOC internship at GitLab
 
 The MIT License (MIT)
 
