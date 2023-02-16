@@ -9,3 +9,6 @@ I started livestreaming on [Twitch](https://www.twitch.tv/metzinaround) while I 
 | Early learning - Javascript Objects | Early Learning - Azure and GitHub actions | Making Twitter Bots | Building Discord bots - playlist |
 |---|---|---|---|---|
 | [![thumbnail from a youtube video. Pj is shown in the bottom right and the screen shows lots of code from codecademy"]({{site.baseurl}}/assets/images/twitch1.png){: width="250" }](https://www.twitch.tv/videos/681719466)  | [![a thumbnail from a youtube video. Pj is shown on the left in a hawaiian shirt with brandon above him. The main screen shows GitHub being worked on. ]({{site.baseurl}}/assets/images/pj_brandon.png){: width="250" }](https://youtu.be/RWXTm8X8y_I)  | [![Pj is working on code. The code is taking up much of the screen and pj is in a video in the bottom right]({{site.baseurl}}/assets/images/divas.png){: width="250" }](https://youtu.be/2rVrkE_iNLo)  | [![Pj and fatima in a video call. The abckground is a purple and blue sci fi city]({{site.baseurl}}/assets/images/pj_fatima.png){: width="250"}](https://www.youtube.com/playlist?list=PL05JrBw4t0KqmMnRatTLPnUZ-ehw1zHqo)|
+
+
+[Previous Page]({{site.baseurl}}/course/blogs) ~ [Next Page]({{site.baseurl}}/course/content) ~ [Home]({{site.baseurl}}/index)

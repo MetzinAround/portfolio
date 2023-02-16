@@ -16,3 +16,4 @@ These are videos of several talks I've given that are available online. Some wer
 
 These are videos that were promoting GitLab for Education, the program I worked on that provided educators and universities with free GitLab to use for teaching, learning, or research. They are all gathered in a [single playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KofkHq4GZJ05FnNGa11PQ4d) that includes guest lectures, marketing videos for the program, tutorials, and more. All videos were recorded and edited by me, inlcuding creating the GitLab for Education intro in Canva that plays before several of the videos. 
 
+[Home]({{site.baseurl}}/index) ~ [Next Page]({{site.baseurl}}/course/blogs)

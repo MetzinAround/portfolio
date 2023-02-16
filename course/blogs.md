@@ -23,5 +23,5 @@ These blogs were written both while employed by GitLab and before being employed
 | [![picture of a blog. There is a picture of some geomtric shapes in purples and blues in front of a blue sky background. The title is "Deployment for Twitter bots: 3 Alternatives to Traditional Cloud"]({{site.baseurl}}/assets/images/twitter_bots_cloud.png){: width="250" }](https://dev.to/metzinaround/deployment-for-twitter-bots-3-alternatives-to-traditional-cloud-215k) | [![picture of a blog. There is a 70's "technical difficulties sign" with a cartoon man standing next to smoking machinery. The title is "Student's Guide to enabling CI/CD with GitLab.com SaaS"]({{site.baseurl}}/assets/images/ci_cd_gitlab.png){: width="250" }](https://dev.to/metzinaround/students-guide-to-enabling-cicd-with-gitlabcom-saas-49hf) | [![picture of a blog page. ther is a picture of some code written in green and pink fonts. the title is "Node.js Twitter Bot Beginner’s Guide: Replying to Users and Scheduling Tweets"]({{site.baseurl}}/assets/images/tweets_bots.png){: width="250" }](https://dev.to/metzinaround/node-js-twitter-bot-beginner-s-guide-replying-to-users-and-scheduling-tweets-4gnk) |  
 
 
-
+[Previous Page]({{site.baseurl}}/course/talks) ~ [Next Page]({{site.baseurl}}/course/streams) ~ [Home]({{site.baseurl}}/index)
 
