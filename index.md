@@ -9,7 +9,7 @@ permalink: /
 
 Thank you for visiting my portfolio! 
 
-I spent 11 years as an educator working mostly in high school literature courses. I taught standard, honors, and AP courses for  9 - 12th grades and loved showing students something they had never known. I was a guide for the unfamiliar and a conduit through which information and skills could grow. My expereince as a teacher has greatly shaped my new career: Developer Relations. 
+I spent 11 years as an educator working mostly in high school literature courses. I taught standard, honors, and AP courses for  9 - 12th grades and loved showing students something they had never known. I was a guide for the unfamiliar and a conduit through which information and skills could grow. My experience as a teacher has greatly shaped my new career: Developer Relations. 
 
 It's important to understand developers in order to work with them; they need someone who can empathize and understand what they are working towards. With that in mind, I make sure first to understand the product I'm working with and then to understand the developers who use the product. In that way, I can work with the developers to find a solution, rather than pushing a solution that doesn't matter to them. These skills were built from my teaching career; students are often expected to read or hear information and then repeat it back for a grade on a test or essay. I strove to understand my students and would adjust lessons and curricula as necessary to best help them learn. 
 
